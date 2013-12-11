@@ -1,0 +1,5 @@
+---
+- hosts: all
+  tasks:
+    - include: playbooks/ubuntu-php54-playbook/php.yml
+    - include: playbooks/ubuntu-nginx-playbook/nginx.yml
