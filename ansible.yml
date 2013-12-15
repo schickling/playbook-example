@@ -1,5 +1,5 @@
 ---
 - hosts: all
   tasks:
-    - include: playbooks/ubuntu-php54-playbook/php.yml
-    - include: playbooks/ubuntu-nginx-playbook/nginx.yml
+    - include: playbooks/schickling/nginx-playbook/nginx.yml
+    - include: playbooks/schickling/php54-playbook/php54.yml

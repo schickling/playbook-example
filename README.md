@@ -7,5 +7,6 @@ Usage example of the [ansible playbook manager](https://github.com/schickling/pl
 ## Try it yourself
 ```sh
 $ git clone https://github.com/schickling/playbook-example.git
+$ playbook install
 $ vagrant up
 ```
