@@ -1,2 +1,2 @@
-- schickling/ubuntu-php54-playbook
-- schickling/ubuntu-nginx-playbook
+- schickling/nginx-playbook
+- schickling/php54-playbook
